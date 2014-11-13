@@ -1,0 +1,1442 @@
+<scene_properties_knowledge dataset="pascal_voc_2010" timestamp="2014-11-11 15:43:05.963648" amount_of_place="63">
+  <place name="town">
+    <objects>
+      <aeroplane freq="1" norm_freq="0.0049504950495049506"/>
+      <cow freq="1" norm_freq="0.0049504950495049506"/>
+      <person freq="59" norm_freq="0.29207920792079206"/>
+      <tvmonitor freq="4" norm_freq="0.019801980198019802"/>
+      <car freq="29" norm_freq="0.14356435643564355"/>
+      <horse freq="3" norm_freq="0.01485148514851485"/>
+      <pottedplant freq="13" norm_freq="0.06435643564356436"/>
+      <bottle freq="5" norm_freq="0.024752475247524754"/>
+      <train freq="1" norm_freq="0.0049504950495049506"/>
+      <dog freq="2" norm_freq="0.009900990099009901"/>
+      <bus freq="15" norm_freq="0.07425742574257425"/>
+      <sofa freq="4" norm_freq="0.019801980198019802"/>
+      <bicycle freq="22" norm_freq="0.10891089108910891"/>
+      <boat freq="5" norm_freq="0.024752475247524754"/>
+      <bird freq="5" norm_freq="0.024752475247524754"/>
+      <motorbike freq="17" norm_freq="0.08415841584158416"/>
+      <cat freq="5" norm_freq="0.024752475247524754"/>
+      <sheep freq="1" norm_freq="0.0049504950495049506"/>
+      <chair freq="8" norm_freq="0.039603960396039604"/>
+      <diningtable freq="2" norm_freq="0.009900990099009901"/>
+    </objects>
+  </place>
+  <place name="ship">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="0" norm_freq="0.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="1" norm_freq="1.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="sky">
+    <objects>
+      <aeroplane freq="69" norm_freq="0.7340425531914894"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="4" norm_freq="0.0425531914893617"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="18" norm_freq="0.19148936170212766"/>
+      <motorbike freq="2" norm_freq="0.02127659574468085"/>
+      <cat freq="1" norm_freq="0.010638297872340425"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="karaoke">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="1" norm_freq="0.5"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="1" norm_freq="0.5"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="home">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="0" norm_freq="0.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="1" norm_freq="1.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="race circuit">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="4" norm_freq="0.5"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="1" norm_freq="0.125"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="3" norm_freq="0.375"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="port">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="0" norm_freq="0.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="1" norm_freq="1.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="lobby">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="1" norm_freq="0.2"/>
+      <tvmonitor freq="1" norm_freq="0.2"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="1" norm_freq="0.2"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="2" norm_freq="0.4"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="forest">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="3" norm_freq="0.02857142857142857"/>
+      <person freq="18" norm_freq="0.17142857142857143"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="1" norm_freq="0.009523809523809525"/>
+      <horse freq="8" norm_freq="0.0761904761904762"/>
+      <pottedplant freq="2" norm_freq="0.01904761904761905"/>
+      <bottle freq="1" norm_freq="0.009523809523809525"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="6" norm_freq="0.05714285714285714"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="5" norm_freq="0.047619047619047616"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="50" norm_freq="0.47619047619047616"/>
+      <motorbike freq="5" norm_freq="0.047619047619047616"/>
+      <cat freq="4" norm_freq="0.0380952380952381"/>
+      <sheep freq="2" norm_freq="0.01904761904761905"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="showroom">
+    <objects>
+      <aeroplane freq="2" norm_freq="0.05555555555555555"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="12" norm_freq="0.3333333333333333"/>
+      <tvmonitor freq="1" norm_freq="0.027777777777777776"/>
+      <car freq="6" norm_freq="0.16666666666666666"/>
+      <horse freq="2" norm_freq="0.05555555555555555"/>
+      <pottedplant freq="1" norm_freq="0.027777777777777776"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="1" norm_freq="0.027777777777777776"/>
+      <boat freq="1" norm_freq="0.027777777777777776"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="8" norm_freq="0.2222222222222222"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="2" norm_freq="0.05555555555555555"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="fun room">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="1" norm_freq="0.16666666666666666"/>
+      <tvmonitor freq="2" norm_freq="0.3333333333333333"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="1" norm_freq="0.16666666666666666"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="1" norm_freq="0.16666666666666666"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="1" norm_freq="0.16666666666666666"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="museum">
+    <objects>
+      <aeroplane freq="1" norm_freq="0.5"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="1" norm_freq="0.5"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="mall">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="1" norm_freq="1.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="garage">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="0" norm_freq="0.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="lake">
+    <objects>
+      <aeroplane freq="2" norm_freq="0.019801980198019802"/>
+      <cow freq="4" norm_freq="0.039603960396039604"/>
+      <person freq="22" norm_freq="0.21782178217821782"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="2" norm_freq="0.019801980198019802"/>
+      <horse freq="1" norm_freq="0.009900990099009901"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="3" norm_freq="0.0297029702970297"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="2" norm_freq="0.019801980198019802"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="1" norm_freq="0.009900990099009901"/>
+      <boat freq="43" norm_freq="0.42574257425742573"/>
+      <bird freq="19" norm_freq="0.18811881188118812"/>
+      <motorbike freq="1" norm_freq="0.009900990099009901"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="1" norm_freq="0.009900990099009901"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="river">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="4" norm_freq="0.26666666666666666"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="1" norm_freq="0.06666666666666667"/>
+      <boat freq="8" norm_freq="0.5333333333333333"/>
+      <bird freq="2" norm_freq="0.13333333333333333"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="race track">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="4" norm_freq="0.5714285714285714"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="2" norm_freq="0.2857142857142857"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="1" norm_freq="0.14285714285714285"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="railways">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="10" norm_freq="0.10309278350515463"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="2" norm_freq="0.020618556701030927"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="84" norm_freq="0.865979381443299"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="1" norm_freq="0.010309278350515464"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="diningroom">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="46" norm_freq="0.17490494296577946"/>
+      <tvmonitor freq="4" norm_freq="0.015209125475285171"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="14" norm_freq="0.053231939163498096"/>
+      <bottle freq="29" norm_freq="0.11026615969581749"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="3" norm_freq="0.011406844106463879"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="9" norm_freq="0.034220532319391636"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="2" norm_freq="0.0076045627376425855"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="9" norm_freq="0.034220532319391636"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="62" norm_freq="0.23574144486692014"/>
+      <diningtable freq="85" norm_freq="0.3231939163498099"/>
+    </objects>
+  </place>
+  <place name="airport">
+    <objects>
+      <aeroplane freq="87" norm_freq="0.7837837837837838"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="15" norm_freq="0.13513513513513514"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="5" norm_freq="0.04504504504504504"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="4" norm_freq="0.036036036036036036"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="desert">
+    <objects>
+      <aeroplane freq="1" norm_freq="0.3333333333333333"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="1" norm_freq="0.3333333333333333"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="1" norm_freq="0.3333333333333333"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="parkinglot">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="28" norm_freq="0.18064516129032257"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="61" norm_freq="0.3935483870967742"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="1" norm_freq="0.0064516129032258064"/>
+      <bottle freq="1" norm_freq="0.0064516129032258064"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="2" norm_freq="0.012903225806451613"/>
+      <bus freq="35" norm_freq="0.22580645161290322"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="4" norm_freq="0.025806451612903226"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="22" norm_freq="0.14193548387096774"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="1" norm_freq="0.0064516129032258064"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="stable">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="0" norm_freq="0.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="1" norm_freq="1.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="dock">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="0" norm_freq="0.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="bus station">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="0" norm_freq="0.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="1" norm_freq="1.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="bar">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="1" norm_freq="1.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="bedroom">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="31" norm_freq="0.2246376811594203"/>
+      <tvmonitor freq="9" norm_freq="0.06521739130434782"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="1" norm_freq="0.007246376811594203"/>
+      <bottle freq="6" norm_freq="0.043478260869565216"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="32" norm_freq="0.2318840579710145"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="7" norm_freq="0.050724637681159424"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="41" norm_freq="0.2971014492753623"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="10" norm_freq="0.07246376811594203"/>
+      <diningtable freq="1" norm_freq="0.007246376811594203"/>
+    </objects>
+  </place>
+  <place name="livingroom">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="111" norm_freq="0.15789473684210525"/>
+      <tvmonitor freq="56" norm_freq="0.07965860597439545"/>
+      <car freq="1" norm_freq="0.001422475106685633"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="61" norm_freq="0.08677098150782361"/>
+      <bottle freq="29" norm_freq="0.041251778093883355"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="74" norm_freq="0.10526315789473684"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="142" norm_freq="0.2019914651493599"/>
+      <bicycle freq="10" norm_freq="0.01422475106685633"/>
+      <boat freq="1" norm_freq="0.001422475106685633"/>
+      <bird freq="2" norm_freq="0.002844950213371266"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="87" norm_freq="0.12375533428165007"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="106" norm_freq="0.1507823613086771"/>
+      <diningtable freq="23" norm_freq="0.032716927453769556"/>
+    </objects>
+  </place>
+  <place name="cage">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="0" norm_freq="0.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="1" norm_freq="1.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="house">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="0" norm_freq="0.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="3" norm_freq="1.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="tent">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="1" norm_freq="0.5"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="1" norm_freq="0.5"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="field">
+    <objects>
+      <aeroplane freq="3" norm_freq="0.008620689655172414"/>
+      <cow freq="50" norm_freq="0.14367816091954022"/>
+      <person freq="72" norm_freq="0.20689655172413793"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="7" norm_freq="0.020114942528735632"/>
+      <horse freq="73" norm_freq="0.20977011494252873"/>
+      <pottedplant freq="1" norm_freq="0.0028735632183908046"/>
+      <bottle freq="5" norm_freq="0.014367816091954023"/>
+      <train freq="1" norm_freq="0.0028735632183908046"/>
+      <dog freq="35" norm_freq="0.10057471264367816"/>
+      <bus freq="2" norm_freq="0.005747126436781609"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="9" norm_freq="0.02586206896551724"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="21" norm_freq="0.0603448275862069"/>
+      <motorbike freq="9" norm_freq="0.02586206896551724"/>
+      <cat freq="7" norm_freq="0.020114942528735632"/>
+      <sheep freq="49" norm_freq="0.14080459770114942"/>
+      <chair freq="4" norm_freq="0.011494252873563218"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="harbor">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="0" norm_freq="0.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="1" norm_freq="1.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="pen">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="1" norm_freq="0.25"/>
+      <person freq="1" norm_freq="0.25"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="2" norm_freq="0.5"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="park">
+    <objects>
+      <aeroplane freq="3" norm_freq="0.023622047244094488"/>
+      <cow freq="1" norm_freq="0.007874015748031496"/>
+      <person freq="30" norm_freq="0.23622047244094488"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="7" norm_freq="0.05511811023622047"/>
+      <horse freq="4" norm_freq="0.031496062992125984"/>
+      <pottedplant freq="1" norm_freq="0.007874015748031496"/>
+      <bottle freq="6" norm_freq="0.047244094488188976"/>
+      <train freq="3" norm_freq="0.023622047244094488"/>
+      <dog freq="18" norm_freq="0.14173228346456693"/>
+      <bus freq="1" norm_freq="0.007874015748031496"/>
+      <sofa freq="1" norm_freq="0.007874015748031496"/>
+      <bicycle freq="12" norm_freq="0.09448818897637795"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="23" norm_freq="0.18110236220472442"/>
+      <motorbike freq="3" norm_freq="0.023622047244094488"/>
+      <cat freq="6" norm_freq="0.047244094488188976"/>
+      <sheep freq="1" norm_freq="0.007874015748031496"/>
+      <chair freq="5" norm_freq="0.03937007874015748"/>
+      <diningtable freq="2" norm_freq="0.015748031496062992"/>
+    </objects>
+  </place>
+  <place name="hospital">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="2" norm_freq="0.6666666666666666"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="1" norm_freq="0.3333333333333333"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="car">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="2" norm_freq="0.6666666666666666"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="1" norm_freq="0.3333333333333333"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="unknown">
+    <objects>
+      <aeroplane freq="1" norm_freq="0.004405286343612335"/>
+      <cow freq="1" norm_freq="0.004405286343612335"/>
+      <person freq="46" norm_freq="0.2026431718061674"/>
+      <tvmonitor freq="4" norm_freq="0.01762114537444934"/>
+      <car freq="4" norm_freq="0.01762114537444934"/>
+      <horse freq="3" norm_freq="0.013215859030837005"/>
+      <pottedplant freq="13" norm_freq="0.05726872246696035"/>
+      <bottle freq="26" norm_freq="0.1145374449339207"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="20" norm_freq="0.0881057268722467"/>
+      <bus freq="2" norm_freq="0.00881057268722467"/>
+      <sofa freq="4" norm_freq="0.01762114537444934"/>
+      <bicycle freq="10" norm_freq="0.04405286343612335"/>
+      <boat freq="4" norm_freq="0.01762114537444934"/>
+      <bird freq="22" norm_freq="0.09691629955947137"/>
+      <motorbike freq="6" norm_freq="0.02643171806167401"/>
+      <cat freq="49" norm_freq="0.21585903083700442"/>
+      <sheep freq="3" norm_freq="0.013215859030837005"/>
+      <chair freq="8" norm_freq="0.03524229074889868"/>
+      <diningtable freq="1" norm_freq="0.004405286343612335"/>
+    </objects>
+  </place>
+  <place name="road">
+    <objects>
+      <aeroplane freq="1" norm_freq="0.0019455252918287938"/>
+      <cow freq="10" norm_freq="0.019455252918287938"/>
+      <person freq="143" norm_freq="0.2782101167315175"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="112" norm_freq="0.2178988326848249"/>
+      <horse freq="3" norm_freq="0.005836575875486381"/>
+      <pottedplant freq="2" norm_freq="0.0038910505836575876"/>
+      <bottle freq="6" norm_freq="0.011673151750972763"/>
+      <train freq="4" norm_freq="0.007782101167315175"/>
+      <dog freq="11" norm_freq="0.021400778210116732"/>
+      <bus freq="90" norm_freq="0.17509727626459143"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="51" norm_freq="0.09922178988326848"/>
+      <boat freq="3" norm_freq="0.005836575875486381"/>
+      <bird freq="3" norm_freq="0.005836575875486381"/>
+      <motorbike freq="65" norm_freq="0.1264591439688716"/>
+      <cat freq="4" norm_freq="0.007782101167315175"/>
+      <sheep freq="5" norm_freq="0.009727626459143969"/>
+      <chair freq="1" norm_freq="0.0019455252918287938"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="train">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="2" norm_freq="1.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="hill">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="2" norm_freq="0.5"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="1" norm_freq="0.25"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="1" norm_freq="0.25"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="barn">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="0" norm_freq="0.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="1" norm_freq="1.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="beach">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="4" norm_freq="0.0547945205479452"/>
+      <person freq="20" norm_freq="0.273972602739726"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="2" norm_freq="0.0273972602739726"/>
+      <horse freq="2" norm_freq="0.0273972602739726"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="5" norm_freq="0.0684931506849315"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="7" norm_freq="0.0958904109589041"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="4" norm_freq="0.0547945205479452"/>
+      <boat freq="19" norm_freq="0.2602739726027397"/>
+      <bird freq="7" norm_freq="0.0958904109589041"/>
+      <motorbike freq="1" norm_freq="0.0136986301369863"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="1" norm_freq="0.0136986301369863"/>
+      <diningtable freq="1" norm_freq="0.0136986301369863"/>
+    </objects>
+  </place>
+  <place name="sea">
+    <objects>
+      <aeroplane freq="5" norm_freq="0.054945054945054944"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="19" norm_freq="0.2087912087912088"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="1" norm_freq="0.01098901098901099"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="59" norm_freq="0.6483516483516484"/>
+      <bird freq="5" norm_freq="0.054945054945054944"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="1" norm_freq="0.01098901098901099"/>
+      <diningtable freq="1" norm_freq="0.01098901098901099"/>
+    </objects>
+  </place>
+  <place name="garden">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="1" norm_freq="0.008264462809917356"/>
+      <person freq="21" norm_freq="0.17355371900826447"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="2" norm_freq="0.01652892561983471"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="33" norm_freq="0.2727272727272727"/>
+      <bottle freq="5" norm_freq="0.04132231404958678"/>
+      <train freq="1" norm_freq="0.008264462809917356"/>
+      <dog freq="14" norm_freq="0.11570247933884298"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="1" norm_freq="0.008264462809917356"/>
+      <bicycle freq="4" norm_freq="0.03305785123966942"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="16" norm_freq="0.1322314049586777"/>
+      <motorbike freq="4" norm_freq="0.03305785123966942"/>
+      <cat freq="8" norm_freq="0.06611570247933884"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="9" norm_freq="0.0743801652892562"/>
+      <diningtable freq="2" norm_freq="0.01652892561983471"/>
+    </objects>
+  </place>
+  <place name="farm">
+    <objects>
+      <aeroplane freq="1" norm_freq="0.004830917874396135"/>
+      <cow freq="56" norm_freq="0.27053140096618356"/>
+      <person freq="31" norm_freq="0.1497584541062802"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="1" norm_freq="0.004830917874396135"/>
+      <horse freq="44" norm_freq="0.21256038647342995"/>
+      <pottedplant freq="2" norm_freq="0.00966183574879227"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="6" norm_freq="0.028985507246376812"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="5" norm_freq="0.024154589371980676"/>
+      <motorbike freq="2" norm_freq="0.00966183574879227"/>
+      <cat freq="1" norm_freq="0.004830917874396135"/>
+      <sheep freq="58" norm_freq="0.28019323671497587"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="kitchen">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="14" norm_freq="0.2857142857142857"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="4" norm_freq="0.08163265306122448"/>
+      <bottle freq="13" norm_freq="0.2653061224489796"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="4" norm_freq="0.08163265306122448"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="1" norm_freq="0.02040816326530612"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="10" norm_freq="0.20408163265306123"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="2" norm_freq="0.04081632653061224"/>
+      <diningtable freq="1" norm_freq="0.02040816326530612"/>
+    </objects>
+  </place>
+  <place name="trainstation">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="16" norm_freq="0.17582417582417584"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="1" norm_freq="0.01098901098901099"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="73" norm_freq="0.8021978021978022"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="1" norm_freq="0.01098901098901099"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="mountain">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="3" norm_freq="0.125"/>
+      <person freq="7" norm_freq="0.2916666666666667"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="3" norm_freq="0.125"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="3" norm_freq="0.125"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="1" norm_freq="0.041666666666666664"/>
+      <bus freq="1" norm_freq="0.041666666666666664"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="2" norm_freq="0.08333333333333333"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="1" norm_freq="0.041666666666666664"/>
+      <motorbike freq="3" norm_freq="0.125"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="workspace">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="29" norm_freq="0.14871794871794872"/>
+      <tvmonitor freq="76" norm_freq="0.38974358974358975"/>
+      <car freq="1" norm_freq="0.005128205128205128"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="5" norm_freq="0.02564102564102564"/>
+      <bottle freq="15" norm_freq="0.07692307692307693"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="3" norm_freq="0.015384615384615385"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="6" norm_freq="0.03076923076923077"/>
+      <bicycle freq="3" norm_freq="0.015384615384615385"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="1" norm_freq="0.005128205128205128"/>
+      <motorbike freq="1" norm_freq="0.005128205128205128"/>
+      <cat freq="14" norm_freq="0.07179487179487179"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="36" norm_freq="0.18461538461538463"/>
+      <diningtable freq="5" norm_freq="0.02564102564102564"/>
+    </objects>
+  </place>
+  <place name="bathroom">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="1" norm_freq="0.2"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="4" norm_freq="0.8"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="building">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="0" norm_freq="0.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="1" norm_freq="0.5"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="1" norm_freq="0.5"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="altar">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="0" norm_freq="0.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="1" norm_freq="0.5"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="1" norm_freq="0.5"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="stair">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="0" norm_freq="0.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="1" norm_freq="0.3333333333333333"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="2" norm_freq="0.6666666666666666"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="sofa">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="0" norm_freq="0.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="1" norm_freq="1.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="warehouse">
+    <objects>
+      <aeroplane freq="1" norm_freq="1.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="0" norm_freq="0.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="shop">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="1" norm_freq="0.3333333333333333"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="1" norm_freq="0.3333333333333333"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="1" norm_freq="0.3333333333333333"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="room">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="0" norm_freq="0.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="1" norm_freq="1.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="ruins">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="1" norm_freq="1.0"/>
+      <tvmonitor freq="0" norm_freq="0.0"/>
+      <car freq="0" norm_freq="0.0"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="0" norm_freq="0.0"/>
+      <bottle freq="0" norm_freq="0.0"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="0" norm_freq="0.0"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="0" norm_freq="0.0"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="0" norm_freq="0.0"/>
+      <diningtable freq="0" norm_freq="0.0"/>
+    </objects>
+  </place>
+  <place name="restaurant">
+    <objects>
+      <aeroplane freq="0" norm_freq="0.0"/>
+      <cow freq="0" norm_freq="0.0"/>
+      <person freq="48" norm_freq="0.36363636363636365"/>
+      <tvmonitor freq="1" norm_freq="0.007575757575757576"/>
+      <car freq="3" norm_freq="0.022727272727272728"/>
+      <horse freq="0" norm_freq="0.0"/>
+      <pottedplant freq="8" norm_freq="0.06060606060606061"/>
+      <bottle freq="23" norm_freq="0.17424242424242425"/>
+      <train freq="0" norm_freq="0.0"/>
+      <dog freq="0" norm_freq="0.0"/>
+      <bus freq="0" norm_freq="0.0"/>
+      <sofa freq="4" norm_freq="0.030303030303030304"/>
+      <bicycle freq="0" norm_freq="0.0"/>
+      <boat freq="0" norm_freq="0.0"/>
+      <bird freq="1" norm_freq="0.007575757575757576"/>
+      <motorbike freq="0" norm_freq="0.0"/>
+      <cat freq="0" norm_freq="0.0"/>
+      <sheep freq="0" norm_freq="0.0"/>
+      <chair freq="11" norm_freq="0.08333333333333333"/>
+      <diningtable freq="33" norm_freq="0.25"/>
+    </objects>
+  </place>
+</scene_properties_knowledge>

@@ -1,0 +1,102 @@
+<spatial_knowledge dataset="pascal_voc_2010" timestamp="2014-11-10 21:13:59.336460" threshold="100">
+  <aeroplane>
+    <top freq="308273" norm_freq="0.08321822225665582"/>
+    <center freq="660985" norm_freq="0.17843274188240826"/>
+    <bottom freq="2735135" norm_freq="0.7383490358609359"/>
+  </aeroplane>
+  <bicycle>
+    <top freq="181075" norm_freq="0.11525012284011436"/>
+    <center freq="671188" norm_freq="0.4271959102516122"/>
+    <bottom freq="718885" norm_freq="0.45755396690827344"/>
+  </bicycle>
+  <bird>
+    <top freq="775598" norm_freq="0.1769102755117775"/>
+    <center freq="1219061" norm_freq="0.2780621112685476"/>
+    <bottom freq="2389473" norm_freq="0.545027613219675"/>
+  </bird>
+  <boat>
+    <top freq="266146" norm_freq="0.09296335585468367"/>
+    <center freq="916155" norm_freq="0.32000797788825575"/>
+    <bottom freq="1680612" norm_freq="0.5870286662570605"/>
+  </boat>
+  <bottle>
+    <top freq="812198" norm_freq="0.23617526562513178"/>
+    <center freq="1139664" norm_freq="0.3313975753737391"/>
+    <bottom freq="1487101" norm_freq="0.4324271590011291"/>
+  </bottle>
+  <bus>
+    <top freq="1794490" norm_freq="0.20634922095116884"/>
+    <center freq="1987991" norm_freq="0.22859998891492017"/>
+    <bottom freq="4913893" norm_freq="0.565050790133911"/>
+  </bus>
+  <car>
+    <top freq="1135193" norm_freq="0.1601524392007396"/>
+    <center freq="2055088" norm_freq="0.28993074831519355"/>
+    <bottom freq="3897922" norm_freq="0.5499168124840669"/>
+  </car>
+  <dog>
+    <top freq="2358654" norm_freq="0.1890937130064731"/>
+    <center freq="3720733" norm_freq="0.2982918300334486"/>
+    <bottom freq="6394079" norm_freq="0.5126144569600783"/>
+  </dog>
+  <chair>
+    <top freq="934186" norm_freq="0.18776536173613406"/>
+    <center freq="2158451" norm_freq="0.43383473184646343"/>
+    <bottom freq="1882647" norm_freq="0.3783999064174025"/>
+  </chair>
+  <cow>
+    <top freq="1042222" norm_freq="0.20729313538470046"/>
+    <center freq="1194240" norm_freq="0.2375288124812417"/>
+    <bottom freq="2791307" norm_freq="0.5551780521340579"/>
+  </cow>
+  <diningtable>
+    <top freq="521205" norm_freq="0.08344110238534883"/>
+    <center freq="4003149" norm_freq="0.6408748296213712"/>
+    <bottom freq="1722028" norm_freq="0.27568406799327994"/>
+  </diningtable>
+  <cat>
+    <top freq="1886455" norm_freq="0.20112875746054626"/>
+    <center freq="2554293" norm_freq="0.27233184850959663"/>
+    <bottom freq="4938592" norm_freq="0.5265393940298572"/>
+  </cat>
+  <horse>
+    <top freq="855746" norm_freq="0.17373168677761183"/>
+    <center freq="1281072" norm_freq="0.26008044378071155"/>
+    <bottom freq="2788858" norm_freq="0.5661878694416766"/>
+  </horse>
+  <motorbike>
+    <top freq="668544" norm_freq="0.12208438845225263"/>
+    <center freq="1987616" norm_freq="0.36296322132561587"/>
+    <bottom freq="2819921" norm_freq="0.5149523902221315"/>
+  </motorbike>
+  <person>
+    <top freq="4878821" norm_freq="0.19518816124965974"/>
+    <center freq="9118933" norm_freq="0.36482333843132253"/>
+    <bottom freq="10997722" norm_freq="0.4399885003190177"/>
+  </person>
+  <pottedplant>
+    <top freq="615020" norm_freq="0.21171798566698635"/>
+    <center freq="1032321" norm_freq="0.35537205730176097"/>
+    <bottom freq="1257561" norm_freq="0.4329099570312527"/>
+  </pottedplant>
+  <sheep>
+    <top freq="869759" norm_freq="0.2077151498303906"/>
+    <center freq="997206" norm_freq="0.2381519405970671"/>
+    <bottom freq="2320303" norm_freq="0.5541329095725422"/>
+  </sheep>
+  <sofa>
+    <top freq="1357334" norm_freq="0.19140391885229904"/>
+    <center freq="3029981" norm_freq="0.42727157608076416"/>
+    <bottom freq="2704149" norm_freq="0.3813245050669368"/>
+  </sofa>
+  <train>
+    <top freq="1352950" norm_freq="0.17118921941284104"/>
+    <center freq="1867950" norm_freq="0.23635234295592328"/>
+    <bottom freq="4682343" norm_freq="0.5924584376312357"/>
+  </train>
+  <tvmonitor>
+    <top freq="1394196" norm_freq="0.3383158751455051"/>
+    <center freq="656233" norm_freq="0.1592416286478804"/>
+    <bottom freq="2070560" norm_freq="0.5024424962066145"/>
+  </tvmonitor>
+</spatial_knowledge>
